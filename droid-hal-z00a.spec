@@ -1,6 +1,7 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
+%define rpm_device z00a
 %define device Z00A
 %define vendor asus
 
